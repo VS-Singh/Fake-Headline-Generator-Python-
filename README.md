@@ -1,8 +1,7 @@
 # Fake Headline Generator
 
 ## Project Description
-The Fake Headline Generator is a fun and engaging tool designed to simulate the generation of clickbait headlines. It can be used for various purposes, including testing web applications, brainstorming article ideas, or just for entertainment.
-
+Fake Headline Generator 📰 (Python) is a playful project that creates random, humorous headlines by combining subjects, actions, and places. It’s designed to showcase Python fundamentals in a fun way while being easy to extend and customize.
 ## Features
 - Generates unique, random headlines.
 - Allows customization of keyword inputs for tailored results.
